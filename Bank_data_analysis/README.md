@@ -39,7 +39,7 @@ The focus of the analysis of this dataset is to gain more insight about the dist
 • Measure the impact of the independent the variables on the target variable, y.
 Due to space constraints, we use only selected attributes in addressing each of the research questions.
 
-Descriptive statistics are the numerical and graphical techniques used to organise, present, and analyse data. One way to gain insight into data values is by computing the standard measures of central tendency – mean, median and mode
+Descriptive statistics are the numerical and graphical techniques used to organise, present, and analyse data. One way to gain insight into data values is by computing the standard measures of central tendency – mean, median and mode is shown in the table below
 
 ![Statistical relation ](images/data_table.jpg)
 
@@ -51,11 +51,11 @@ A quick look at the Table 2 provides the following insight about the entries:
 • A third of all calls were made in the month of May while about 21% of the calls happened on a Thursday.
 .On average a call lasts for approximately 4mins (258 seconds) with majority of calls barely going beyond a minute (85 secs)
 
-If we consider the number of contacts
-that happened per month, it can be
-confirms that most contacts were made
-in the month of May, followed by July
-and then in June. The least months with
+If we consider the number of contacts that happened per month, it can be confirms that most contacts were made
+in the month of May, followed by July and then in June acoording to the chart below
+
+![Campaign versus Month ](images/barchart.jpg)
+ The least months with
 contact where October, December, and
 November, respectively.
 It is also clear from the plot that, on
@@ -76,6 +76,8 @@ dataset based on the target variable, it did not consider other distributions e.
  Bar plot of Campaign and Month
 
  # Which of the attributes correlate?
+
+ ![correlation chart ](images/cor.jpg)
 The correlation plot clearly indicates that the pairs
 of attributes from the five socio-economic
 context variables employee variation rate,
