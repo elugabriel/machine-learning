@@ -78,6 +78,7 @@ dataset based on the target variable, it did not consider other distributions e.
  # Which of the attributes correlate?
 
  ![correlation chart ](images/cor.jpg)
+ 
 The correlation plot clearly indicates that the pairs
 of attributes from the five socio-economic
 context variables employee variation rate,
