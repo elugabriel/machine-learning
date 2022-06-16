@@ -41,7 +41,7 @@ Due to space constraints, we use only selected attributes in addressing each of 
 
 Descriptive statistics are the numerical and graphical techniques used to organise, present, and analyse data. One way to gain insight into data values is by computing the standard measures of central tendency – mean, median and mode
 
-add statistical summary 
+![Statistical relation ](images/data_table.jpg)
 
 A quick look at the Table 2 provides the following insight about the entries:
 • 36548 (i.e., 88.73%) of the customers called did not subscribe to term deposit.
