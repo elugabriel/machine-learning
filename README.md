@@ -1,1 +1,1 @@
-# Data Analysis of Bank Marketing Campaign Dataset
+# This repo consist of different machine learning projects
